@@ -13,6 +13,10 @@ Team Details:
  Contribution: Make Chatbot
 
 
+:::::::Original Repository::::::
+https://github.com/PoojaBansal2003/HackData_Binary_Fusion
+
+
 Problem:
 Gangrene, a serious condition resulting from tissue death due to reduced blood supply and severe infection, can be particularly concerning when affecting extremities. Recognizable by symptoms such as skin discoloration, intense pain, and swelling, prompt medical attention is crucial. Treatment involves surgery, antibiotics, and measures to improve blood flow, with the possibility of amputation in severe cases. On a different note, ulcers, painful sores triggered by factors like pressure or poor circulation, require early recognition to prevent complications. Symptoms include pain and open sores, with treatment focusing on addressing the cause and promoting healing. If not identified in the early stages, both gangrene and ulcers may necessitate amputation as a last resort, underscoring the importance of timely and comprehensive medical care.
 
